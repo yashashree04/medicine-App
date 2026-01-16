@@ -1,3 +1,3 @@
-# flutter_application_1
+# medicine_app
 
 A new Flutter project.
